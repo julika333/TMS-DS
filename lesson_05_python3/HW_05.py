@@ -8,4 +8,4 @@ def split_string(input_str) -> list:
     return input_str.split(" ")
 
 
-print(split_string("Robin Singh" ))
+print(split_string("Robin Singh"))

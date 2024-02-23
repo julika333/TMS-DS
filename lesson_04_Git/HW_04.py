@@ -42,7 +42,6 @@ def search_substr_02(subst, st):
 def top_three_char(str):
     str_no_spaces = str.replace(" ", "")
     cnt_dict = Counter(str_no_spaces)
-
     top_three = cnt_dict.most_common(3)
     for char, cnt in top_three:
         print(f"The character '{char}' appears {cnt} times.")
