@@ -9,3 +9,7 @@ Seaborn - https://seaborn.pydata.org/
 
   https://colab.research.google.com/drive/1-UrZ-0QUyHXGZcBtxRHCyhXIKiXyphTh?usp=sharing
   https://karmatnspyphuntsho-tijtech.medium.com/data-visualization-in-google-colaboratory-e8f67ead719b
+
+
+запись занятия
+https://disk.yandex.ru/d/yGpomphppLEsxg
