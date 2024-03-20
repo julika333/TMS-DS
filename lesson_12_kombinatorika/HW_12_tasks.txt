@@ -1,0 +1,16 @@
+разобрать решения задач
+http://mathprofi.ru/zadachi_po_kombinatorike_primery_reshenij.html
+http://mathprofi.ru/zadachi_na_klassicheskoe_opredelenie_verojatnosti_primery_reshenij.html
+и решить задачи из файла (результатом будет считать ноутбук с решением)
+-----------
+https://colab.research.google.com/drive/1GXWmKrFyT-hHQfv0df9WdYlfqLdIO70V?usp=sharing
+Первая часть ДЗ (теоритическая)
+https://skysmart.ru/articles/mathematic/teoriya-veroyatnostej-formuly-i-primery
+https://habr.com/ru/articles/331060/
+http://mathprofi.ru/matematicheskaya_statistika.html
+http://mathprofi.ru/diskretnyi_variacionnyi_ryad.html
+http://mathprofi.ru/intervalnyi_variacionnyi_ryad.html
+http://mathprofi.ru/moda_mediana_generalnaya_i_vyborochnaya_srednyaya.html
+----------------
+ссылка на запись
+https://disk.yandex.ru/i/yg_BxXHPsgHPYA
