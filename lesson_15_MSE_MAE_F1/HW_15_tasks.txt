@@ -5,3 +5,6 @@
 
 ссылка на запись
 https://disk.yandex.ru/d/tuAlokL91chrLg
+
+ноутбук
+https://colab.research.google.com/drive/1o6aMjtm7pOO3dz-IRjCIk8NVr8NQtOqt?usp=sharing
