@@ -1,0 +1,14 @@
+дз
+1. просмотреть и разобраться с теорией
+2. Построить SVM для регрессии и классификации и сравнить результаты с другими моделями (ранее изученными, взяв одну метрику)
+3. Провести кроссвалидацию и сравнить результаты
+4* Реализовать SVM самим, не используя sklearn и сравнить с ним
+
+ссылка на занятие
+https://disk.yandex.ru/i/zKhXGOM4Qjqm2Q
+
+Links to read:
+https://quantum-ods.github.io/qmlcourse/book/qsvm/ru/classic_svm.html
+
+Notebook
+https://colab.research.google.com/drive/1cSqTwwRuNLNoBWd0834phdr81Gaw2btv?usp=sharing
