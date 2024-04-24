@@ -1,0 +1,9 @@
+ДЗ
+1. изучить теорию из ноутбука и особое внимание уделить мерикам качества
+2. выбрать любой сет и сделать кластеризацию к-средним, dbscan и иерархическим
+3. проанализировать полученные результаты
+
+
+https://colab.research.google.com/drive/1yQ384yl4EOgL6TWdMhfjp6WS_UCE9Uvo?usp=sharing
+
+https://disk.yandex.ru/d/Bw-I-Ppu6u0rSw
