@@ -1,0 +1,7 @@
+https://colab.research.google.com/drive/1EHhnFAfP2wfi4beUoKXv3rHWGnjbxst3?usp=sharing
+
+https://disk.yandex.ru/d/oUwI0yjC3hWMuA
+
+дз
+1. разобрать теорию
+2. написать и обучить две модели на tensorflow и pytorch(линейную для любого датасета на ваш выбор и для классификации сетку на датасет мнист одежда)
