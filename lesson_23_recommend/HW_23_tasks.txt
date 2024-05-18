@@ -2,6 +2,10 @@ https://disk.yandex.ru/d/ZAHE8xdS9IJLGA
 
 https://colab.research.google.com/drive/1OnV64WCe4haK5wnltutIokEJ8sCZ13aU?usp=sharing
 
+AutoEncoder
+https://colab.research.google.com/drive/1OfArM8bBj40ro3jU94LtcvWP4ThF5qW5?usp=sharing
+
+
 дз
 1 Разобрать теорию из ноутбука
 2. Попробовать построить рекомендации на основе кластеризации (в случае успешной кластеризации)
